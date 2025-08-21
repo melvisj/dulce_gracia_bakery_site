@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cupcake base -->
+  <path d="M8 18h16l-2 10H10l-2-10z" fill="#846A5B"/>
+  <!-- Cupcake frosting -->
+  <path d="M24 18c0-4.4-3.6-8-8-8s-8 3.6-8 8c0 1.1.2 2.2.7 3.2h14.6c.5-1 .7-2.1.7-3.2z" fill="#F5A623"/>
+  <!-- Cherry on top -->
+  <circle cx="16" cy="12" r="2" fill="#e74c3c"/>
+  <!-- Frosting swirl -->
+  <path d="M12 16c2-2 4-2 6 0s4 2 6-1" stroke="#B3C0AE" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
