@@ -19,9 +19,9 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-semibold mb-4 text-[#B3C0AE]">Contacto</h4>
             <div className="space-y-2 text-white/80">
-              <p><i className="bi bi-envelope-arrow-up-fill"></i> dulcegracia.pedidosmaiquetia@gmail.com</p>
-              <p><i className="bi bi-whatsapp"></i> WhatsApp: +58 424 248 1824</p>
-              <p><i className="bi bi-geo-alt"></i> Maiquetía, Venezuela</p>
+              <i className="bi bi-envelope-arrow-up-fill"></i><p> dulcegracia.pedidosmaiquetia@gmail.com</p>
+              <i className="bi bi-whatsapp"></i><p> WhatsApp: +58 424 248 1824</p>
+              <i className="bi bi-geo-alt"></i><p> Maiquetía, Venezuela</p>
             </div>
           </div>
 
@@ -29,8 +29,8 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-semibold mb-4 text-[#B3C0AE]">Síguenos</h4>
             <div className="space-y-2 text-white/80">
-              <p><i className="bi bi-instagram"></i> @Dulcegracia.maiquetia</p>
-              <p><i className="bi bi-tiktok"></i> @dulcegraciamaiquetia</p>
+              <i className="bi bi-instagram"></i><p> @Dulcegracia.maiquetia</p>
+              <i className="bi bi-tiktok"></i><p> @dulcegraciamaiquetia</p>
             </div>
           </div>
         </div>
